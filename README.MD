@@ -13,7 +13,7 @@ Credit: Julian Nectar
 
 This walks through how to enable the modified drivers and full acceleration.
 
-5. Once install is complete, replace the 'config-install'.plist wiith the config.plist set aside. Reset NVRAM and reboot.
+5. Once install is complete, replace the 'config-install'.plist with the config.plist set aside. Reset NVRAM and reboot.
 
 Notes:
 Brightness doesn't adjust, sleep is not possible but patches are being worked on. No 'Night-Mode' ability at present. There's some choppiness in preview and photos. 
